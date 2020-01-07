@@ -1,0 +1,1 @@
+In Vanilla Rimworld, hives can crumble when their residents are slow to perform basic maintenance. This mod increases the repair check frequency for insects that depend on the hive to survive.
