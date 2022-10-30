@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
     <Operation Class="PatchOperationReplace">
-        <xpath>Defs/DutyDef[defName="DefendAndExpandHive"]/thinkNode[@Class="ThinkNode_Priority"]/subnodes/li[@Class="ThinkNode_ChancePerHour_Constant"]/mtbHours</xpath>
+        <xpath>Defs/DutyDef[defName="DefendAndExpandHive"]/thinkNode[@Class="ThinkNode_Priority"]/subNodes/li[@Class="ThinkNode_ChancePerHour_Constant"]/mtbHours</xpath>
         <value>
             <mtbHours>1</mtbHours>
         </value>
