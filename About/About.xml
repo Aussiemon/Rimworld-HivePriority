@@ -4,8 +4,12 @@
 	<author>Aussiemon</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
 	</supportedVersions>
-	<description>In Vanilla Rimworld, hives can crumble when their residents are slow to perform basic maintenance. This mod increases the repair check frequency for insects that depend on the hive to survive.
+	<description>In Vanilla Rimworld, insect hives can degrade over time because their residents don't perform enough regular maintenance. This simple mod increases the repair check frequency to every hour instead of every 2.5 hours.
 
 [url=https://github.com/Aussiemon/Rimworld-HivePriority]GitHub Source[/url]</description>
 	<url>https://steamcommunity.com/id/Aussiemon/myworkshopfiles/?appid=294100</url>
