@@ -1,1 +1,1 @@
-In Vanilla Rimworld, hives can crumble when their residents are slow to perform basic maintenance. This mod increases the repair check frequency for insects that depend on the hive to survive.
+In Vanilla Rimworld, insect hives can degrade over time because their residents don't perform enough regular maintenance. This simple mod increases the repair check frequency to every hour instead of every 2.5 hours.
